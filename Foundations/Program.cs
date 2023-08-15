@@ -1,4 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
 
-
+namespace Foundations
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Some Hello World type of thing");
+            
+        }
+    }
+}
